@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the specific tagged software version; the related manuscript may have its own DOI after deposit."
+type: software
+title: "ZoraASI Five-Channel Text-First Representational Filter"
+authors:
+  - family-names: Baird
+    given-names: Christopher Michael
+version: "0.1.0"
+repository-code: "https://github.com/Cbaird26/Cbaird26-zoraasi-software-methods"
+license: "LicenseRef-ZoraASI-Noncommercial-Education-Research-1.0"
+abstract: >-
+  A research software reference implementation of five text-first representational
+  channels with missingness, lexical provenance, strict input validation, and
+  deterministic acceptance tests. It does not measure sensory perception,
+  emotions, consciousness or physical fields.
+keywords:
+  - research software
+  - provenance
+  - missing data
+  - representational interface
+# No DOI or release date is asserted before Zenodo or a tagged release is verified. The custom code license is in LICENSE-CODE.md.
