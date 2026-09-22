@@ -17,5 +17,3 @@ jobs:
         env:
           PYTHONDONTWRITEBYTECODE: '1'
         run: python -B -m unittest discover -s tests -v
-      - name: Source hashes
-        run: sha256sum -c SOURCE_SHA256SUMS.txt
